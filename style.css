@@ -1,5 +1,10 @@
 .title {
 	color:red;
+	font-size:75px;
 }
 .section__txt {
-	font-style: italic;
+	font-style:italic;
+}
+.section__description {
+	font-style:italic;
+}
